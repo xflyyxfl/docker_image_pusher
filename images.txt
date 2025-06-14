@@ -1,5 +1,5 @@
 jupyter/base-notebook:latest
-registry.k8s.io/ingress-nginx/controller:v1.8.1
+registry.k8s.io/ingress-nginx/controller:v1.11.7
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0

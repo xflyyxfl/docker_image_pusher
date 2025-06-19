@@ -1,3 +1,5 @@
+#jupyter内通过域名访问网络必须
+registry.k8s.io/coredns/coredns:v1.9.3
 jupyter/base-notebook:latest
 registry.k8s.io/ingress-nginx/controller:v1.11.7
 nginx

@@ -1,3 +1,5 @@
+#metrics-server 
+registry.k8s.io/metrics-server/metrics-server:v0.7.2
 #jupyter内通过域名访问网络必须
 registry.k8s.io/coredns/coredns:v1.9.3
 jupyter/base-notebook:latest
